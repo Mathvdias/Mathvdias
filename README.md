@@ -1,5 +1,8 @@
 <h2> Hi I'm Matheus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
 
+🧐 **Knowledge of:**<br>
+
+`Design Pattern`, `Clean Code`, `Android Jetpack`, `BloC`, `Coroutines`, `GitFlow`, `TDD`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 <div align="center">
   <a href="https://github.com/Mathvdias">
