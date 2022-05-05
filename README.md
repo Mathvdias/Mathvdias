@@ -4,14 +4,15 @@
 
 `Design Pattern`, `Clean Code`, `Android Jetpack`, `BloC`, `Coroutines`, `GitFlow`, `TDD`, `Object-Oriented Programming`, `data structures and algorithms`.
 
-<div align="center">
-  <a href="https://github.com/Mathvdias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathvdias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvdias&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <div>
+   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=Mathvdias&count_private=true&show_icons=true&theme=dark" />
+   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvdias&layout=compact&theme=dark" />
+   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
+  </div>
+  
 
-##  
-
+<br>  
+<div>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -20,9 +21,8 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  
-##
-  
+</div>   
+<br>  
 <div> 
   <a href="mailto:mattmvc56@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
     <a href="https://www.linkedin.com/in/matheusvdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
