@@ -3,7 +3,7 @@
 
 🧐 **Knowledge of:**<br>
 
-`Design Pattern`, `Clean Code`, `Android Jetpack`, `BloC`, `Coroutines`, `GitFlow`, `TDD`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Design Pattern`, `Clean Code`, `Android Jetpack`, `SwiftUI`, `UIKit`, `GitFlow`, `TDD`, `Object-Oriented Programming`, `data structures and algorithms`.
 
   <div>
    <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=Mathvdias&count_private=true&show_icons=true&theme=dark" />
