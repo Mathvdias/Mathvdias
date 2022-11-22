@@ -1,14 +1,4 @@
 <h2> Hi I'm Matheus! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
-<h3>23y</h3>
-
-🧐 **Knowledge of:**<br>
-
-`Design Pattern`, `Clean Code`, `Android Jetpack`, `SwiftUI`, `UIKit`, `GitFlow`, `TDD`, `Object-Oriented Programming`, `data structures and algorithms`.
-
-  <div>
-   <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
-  </div>
-  
 
 <br>  
 <div>
