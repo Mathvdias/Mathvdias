@@ -6,8 +6,6 @@
 `Design Pattern`, `Clean Code`, `Android Jetpack`, `SwiftUI`, `UIKit`, `GitFlow`, `TDD`, `Object-Oriented Programming`, `data structures and algorithms`.
 
   <div>
-   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=Mathvdias&count_private=true&show_icons=true&theme=dark" />
-   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathvdias&layout=compact&theme=dark" />
    <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>
   </div>
   
