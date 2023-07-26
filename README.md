@@ -4,12 +4,6 @@
 <br />
   <img src="https://hits.dwyl.com/Mathvdias/Mathvdias.svg?style=flat-square&show=unique" alt="Matheus's profile views" />
 </p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
-<h3>  - Desenvolvedor Mobile</h3>
-<h3>  - Kotlin</h3>
-<h3>  - Android</h3>
-<h3>  - Flutter</h3>
-<h3>  - Dart</h3>
-<h3>  - MVVM/MVC/CLEAN DART</h3>
 <br>
 <div>
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
