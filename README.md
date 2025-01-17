@@ -10,12 +10,6 @@
 <p align="center">
   <img alt="Welcome Message" 
        src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=Hi+there!+I'm+Matheus">
-  <br />
-  <img alt="Profile Views" 
-       src="https://hits.dwyl.com/Mathvdias/Mathvdias.svg?style=flat-square&show=unique">
-  <br />
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" 
-       alt="GIF" width="30">
 </p>
 
 <div align="center">
