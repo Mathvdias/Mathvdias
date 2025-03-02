@@ -1,11 +1,4 @@
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://pixel-profile.vercel.app/api/github-stats?username=Mathvdias&theme=summer">
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://pixel-profile.vercel.app/api/github-stats?username=Mathvdias&screen_effect=true&theme=blue_chill">
-  <img alt="GitHub Stats" 
-       src="https://pixel-profile.vercel.app/api/github-stats?username=Mathvdias&theme=summer">
-</picture>
+<img src="https://github.com/user-attachments/assets/5618d8f6-b3d4-4f20-a0e5-f4f8a4a3ab15" alt="descrição" style="border-radius: 80px;" />
 
 <p align="center">
   <img alt="Welcome Message" 
