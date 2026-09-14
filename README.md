@@ -1,5 +1,8 @@
 # Matheus Dias
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusvdias/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matheusdiasportfolio.web.app/)
+
 Software & Systems Engineer with a background in Electrical and Telecommunications Engineering (B.S.).
 
 I focus on low-level systems, distributed infrastructure, and client performance. My work involves building concurrent services in Go, tuning Linux networking and kernels (BBR, TCP socket parameters), automating bare-metal infrastructure, and architecting resilient client-side platforms.
@@ -21,4 +24,4 @@ I focus on low-level systems, distributed infrastructure, and client performance
 * **Electronics Technician** — Instituto Federal do Amazonas (IFAM) (2014 – 2016)
 
 ---
-[LinkedIn](https://www.linkedin.com/in/matheusvdias/) · [Portfolio](https://matheusdiasportfolio.web.app/) · Manaus, Brazil
+[LinkedIn](https://www.linkedin.com/in/matheusvdias/) · [Portfolio](https://matheusdiasportfolio.web.app/) · São Paulo - SP
