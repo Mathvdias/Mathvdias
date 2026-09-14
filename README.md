@@ -14,7 +14,7 @@ I focus on low-level systems, distributed infrastructure, and client performance
 * **Hardware & Telecom:** Telecommunications network topologies, IoT telemetry pipelines, embedded systems.
 
 ### Selected Repositories
-* [tesouro-backend](https://github.com/cm-manaus/tesouro-backend) — High-performance computational engine & REST API in Go with zero external dependencies. Features sub-microsecond resolution (1.85µs/op), thread-safe concurrency, native Prometheus `/metrics` telemetry, and multi-arch Docker deployment.
+* [liturgical-calendar-engine](https://github.com/cm-manaus/liturgical-calendar-engine) — Traditional Roman Rite liturgical calendar computation engine and HTTP service in Go. Features in-memory sub-microsecond resolution (1.67µs/op), zero SQL dependencies, native Prometheus OpenMetrics telemetry, and hardened container deployment.
 * [homelab-infrastructure](https://github.com/Mathvdias/homelab-infrastructure) — Infrastructure-as-Code and operational automation for a distributed bare-metal homelab. Includes kernel-level network tuning (TCP BBR), containerized services, and automated offsite backups.
 * [intercepted_http](https://github.com/Mathvdias/intercepted_http) — Composable interceptor pipeline for Dart HTTP clients. Supports automated token refresh, exponential backoff retry logic, and observability hooks without framework coupling.
 * [portfolio](https://github.com/Mathvdias/portfolio) — Desktop-style web portfolio compiled to WebAssembly (WASM), focusing on low bundle size, draggable window state management, and test coverage.
